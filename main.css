@@ -1,0 +1,17 @@
+table,
+td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+.text-right {
+    text-align: right;
+}
+
+.text-upper {
+    font-style: normal;
+    font-weight: bold;
+}
